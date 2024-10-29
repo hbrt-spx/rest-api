@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### DB ###
+/Java Study/rest-api/src/main/resources/application.properties
